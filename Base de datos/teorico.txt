@@ -1,0 +1,2 @@
+-time stamp es un respaldo en la cual muesta el momento en el cual se realizo el registro permiteindo veriicar que resgistros fueron afectados
+-la denominacion mucho muchos en la capacidad de relacionar dos tablas con una tabla intermedia permiteindo no generar conflicto y rebundancia en la base de datos.
